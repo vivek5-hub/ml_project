@@ -1,5 +1,7 @@
 pandas
 numpy
 scikit-learn
-imbalanced_learn
+Imbalanced-learn
 streamlit
+pickle
+
